@@ -167,3 +167,5 @@ AWS CloudFormation for VPC
 
 
 ![myVPC](CloudFormationOutput.jpg)
+
+...
